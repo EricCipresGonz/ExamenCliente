@@ -1,0 +1,65 @@
+body {
+  font-family: 'MedievalSharp', cursive;
+  background-color: #d2b48c; 
+}
+
+.jugador {
+  text-align: center;
+  margin: 20px;
+}
+
+h2 {
+  color: #8b4513; 
+}
+
+.cartas {
+  display: flex;
+  justify-content: space-around;
+}
+
+.carta {
+  border: 2px solid #8b4513; 
+  background-color: #f5deb3; 
+  padding: 10px;
+  margin: 10px;
+  width: 150px;
+  text-align: center;
+}
+
+.carta img {
+  max-width: 100%;
+  max-height: 100px;
+  margin-bottom: 10px;
+}
+
+.carta p {
+  margin: 5px;
+  color: #8b4513; 
+}
+
+.carta.seleccionada {
+  background-color: #ffd700; 
+}
+
+
+
+.centrar-boton {
+  text-align: center;
+}
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/*Hola

@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Guerrero",
+    "imagen": "un_guerrero_hombre.png",
+    "ataque": 10,
+    "defensa": 5,
+    "velocidad": 7,
+    "salud": 100
+  },
+  {
+    "nombre": "Mago",
+    "imagen": "mago_con_bola_de_fuego.png",
+    "ataque": 8,
+    "defensa": 3,
+    "velocidad": 10,
+    "salud": 80
+  },
+  {
+    "nombre": "Arquero",
+    "imagen": "arquero_hombre.png",
+    "ataque": 9,
+    "defensa": 4,
+    "velocidad": 8,
+    "salud": 90
+  },
+  {
+    "nombre": "Asesino",
+    "imagen": "asesino.png",
+    "ataque": 12,
+    "defensa": 2,
+    "velocidad": 12,
+    "salud": 70
+  },
+  {
+    "nombre": "Caballero",
+    "imagen": "caballero_edad_media.png",
+    "ataque": 7,
+    "defensa": 8,
+    "velocidad": 5,
+    "salud": 120
+  },
+  {
+    "nombre": "Hechicero",
+    "imagen": "hechicero.png",
+    "ataque": 9,
+    "defensa": 6,
+    "velocidad": 9,
+    "salud": 85
+  },
+  {
+    "nombre": "Paladín",
+    "imagen": "paladin.png",
+    "ataque": 8,
+    "defensa": 10,
+    "velocidad": 6,
+    "salud": 110
+  },
+  {
+    "nombre": "Bárbaro",
+    "imagen": "Barbaro_germano.png",
+    "ataque": 11,
+    "defensa": 3,
+    "velocidad": 7,
+    "salud": 95
+  },
+  {
+    "nombre": "Ladrón",
+    "imagen": "ladron.png",
+    "ataque": 10,
+    "defensa": 4,
+    "velocidad": 11,
+    "salud": 75
+  },
+  {
+    "nombre": "Cazador",
+    "imagen": "cazador_medieval.png",
+    "ataque": 9,
+    "defensa": 5,
+    "velocidad": 10,
+    "salud": 88
+  }
+]
